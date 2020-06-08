@@ -1,0 +1,378 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"163","Washington, DC","1","5400 Arnold Avenue Southwest, Southwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1117,860,1450
+"163","Washington, DC","2","1400 Juniper Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1830,1486,2253
+"163","Washington, DC","4","2700 Unicorn Lane Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1681,1389,2033
+"163","Washington, DC","5","4500 Q Place Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1719,1319,2240
+"163","Washington, DC","6","Ridge Road Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1696,1382,2080
+"163","Washington, DC","7","4500 Ohio Drive Southwest, Southwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",856,554,1320
+"163","Washington, DC","8","0 H Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",747,530,1052
+"163","Washington, DC","9","1800 Upshur Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1607,1301,1983
+"163","Washington, DC","10","1500 30th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1592,1213,2088
+"163","Washington, DC","11","1600 Tuckerman Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1639,1321,2032
+"163","Washington, DC","17","8300 Colesville Road, Downtown Silver Spring, Silver Spring","1/1/2020 - 3/31/2020, Every day, Daily Average",1845,1502,2265
+"163","Washington, DC","19","Thomas Avenue, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1342,1021,1762
+"163","Washington, DC","20","McClellan Drive, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1204,879,1647
+"163","Washington, DC","21","3600 North Vernon Street, Old Glebe, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1656,1341,2044
+"163","Washington, DC","23","6500 Bellamine Court, McLean","1/1/2020 - 3/31/2020, Every day, Daily Average",1947,1576,2404
+"163","Washington, DC","24","8600 Brook Road, McLean","1/1/2020 - 3/31/2020, Every day, Daily Average",2248,1820,2776
+"163","Washington, DC","28","2100 North Scott Street, North Highland, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1440,1111,1866
+"163","Washington, DC","29","700 Carpenter Road, Potomac Yard, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1449,1123,1868
+"163","Washington, DC","31","1000 C Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",461,314,675
+"163","Washington, DC","32","2600 13th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1181,907,1536
+"163","Washington, DC","33","4400 E Street Southeast, Benning Ridge, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",928,704,1223
+"163","Washington, DC","34","1700 Independence Avenue Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",476,345,654
+"163","Washington, DC","35","2100 1st Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",759,549,1047
+"163","Washington, DC","36","500 17th Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",314,205,479
+"163","Washington, DC","37","3500 Toledo Terrace, Chillum","1/1/2020 - 3/31/2020, Every day, Daily Average",1287,1006,1646
+"163","Washington, DC","39","Woodrow Wilson Memorial Bridge, Old Town, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1539,1181,2004
+"163","Washington, DC","41","2000 Rosedale Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",395,264,590
+"163","Washington, DC","42","4200 10th Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",788,576,1076
+"163","Washington, DC","43","900 Randolph Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1301,992,1705
+"163","Washington, DC","44","1200 New Jersey Avenue Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",965,707,1315
+"163","Washington, DC","45","0 L Place Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",677,453,1010
+"163","Washington, DC","46","1900 Anacostia Drive, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",821,600,1123
+"163","Washington, DC","47","0 S Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",628,442,890
+"163","Washington, DC","48","3500 Commodore Joshua Barney Drive Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",302,176,517
+"163","Washington, DC","49","2700 10th Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",453,314,652
+"163","Washington, DC","50","5700 Chevy Chase Parkway Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1909,1590,2291
+"163","Washington, DC","51","1300 Underwood Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1571,1251,1972
+"163","Washington, DC","52","200 Quackenbos Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1261,999,1590
+"163","Washington, DC","53","600 Atlantic Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1471,1160,1863
+"163","Washington, DC","54","3300 Clay Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",550,390,775
+"163","Washington, DC","55","500 Q Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",846,626,1142
+"163","Washington, DC","56","Center Leg Freeway, Southwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",932,658,1320
+"163","Washington, DC","57","600 Edgewood Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",595,425,832
+"163","Washington, DC","58","3100 13th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1137,876,1475
+"163","Washington, DC","59","2800 45th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1849,1411,2422
+"163","Washington, DC","60","3200 Dubois Place Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",710,516,975
+"163","Washington, DC","61","1400 15th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1076,784,1476
+"163","Washington, DC","62","1800 W Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1197,899,1592
+"163","Washington, DC","63","4400 40th Street, Brentwood","1/1/2020 - 3/31/2020, Every day, Daily Average",720,519,998
+"163","Washington, DC","64","1800 Ontario Place Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1409,1075,1845
+"163","Washington, DC","65","1900 15th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1152,858,1546
+"163","Washington, DC","66","1400 K Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1052,751,1473
+"163","Washington, DC","67","900 Q Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",947,710,1262
+"163","Washington, DC","68","8800 Springfield Road, Laurel","1/1/2020 - 3/31/2020, Every day, Daily Average",995,744,1329
+"163","Washington, DC","70","3600 Anton Terrace, District Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1708,1405,2075
+"163","Washington, DC","73","3300 Chillum Road, Mount Rainier","1/1/2020 - 3/31/2020, Every day, Daily Average",905,682,1200
+"163","Washington, DC","74","11100 Rodeo Court, Upper Marlboro","1/1/2020 - 3/31/2020, Every day, Daily Average",1462,1102,1939
+"163","Washington, DC","75","4900 Blackfoot Road, Hollywood, College Park","1/1/2020 - 3/31/2020, Every day, Daily Average",1298,1015,1658
+"163","Washington, DC","76","7300 16th Place, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1378,1099,1726
+"163","Washington, DC","77","3200 Donnell Drive, Forestville","1/1/2020 - 3/31/2020, Every day, Daily Average",1614,1268,2053
+"163","Washington, DC","78","5000 Roseld Court, Oxon Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",1525,1207,1925
+"163","Washington, DC","80","3100 West Avenue, District Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1598,1272,2006
+"163","Washington, DC","81","1600 Nova Avenue, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1225,957,1567
+"163","Washington, DC","82","2000 South Eads Street, Crystal City, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1463,1088,1965
+"163","Washington, DC","83","500 Ethan Allen Avenue, Takoma Park","1/1/2020 - 3/31/2020, Every day, Daily Average",1362,1061,1747
+"163","Washington, DC","84","7700 Oxman Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",819,598,1120
+"163","Washington, DC","85","100 Lakeside Drive, Greenbelt","1/1/2020 - 3/31/2020, Every day, Daily Average",876,660,1162
+"163","Washington, DC","87","7600 Greenbrook Drive, Greenbelt","1/1/2020 - 3/31/2020, Every day, Daily Average",801,590,1087
+"163","Washington, DC","92","3100 North Nelson Street, Bellevue Forest, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1499,1159,1937
+"163","Washington, DC","94","6300 8th Circle, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1577,1272,1953
+"163","Washington, DC","98","1600 13th Road South, Arlington Views, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1261,941,1688
+"163","Washington, DC","103","600 South Ball Street, Crystal City, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1286,941,1756
+"163","Washington, DC","104","2500 Jackson Parkway, Vienna","1/1/2020 - 3/31/2020, Every day, Daily Average",2063,1658,2566
+"163","Washington, DC","105","Dwight D. Eisenhower Southwest Freeway, Southwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1011,733,1393
+"163","Washington, DC","106","5800 Cameron Run Terrace, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1573,1256,1968
+"163","Washington, DC","107","4000 Ellicott Street, Seminary Hill, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1477,1113,1959
+"163","Washington, DC","108","100 57th Place Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",983,739,1306
+"163","Washington, DC","111","Perimeter East Road Southwest, Southwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1309,1023,1674
+"163","Washington, DC","112","Willow Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1091,833,1427
+"163","Washington, DC","113","400 50th Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",930,704,1228
+"163","Washington, DC","114","5300 Call Place Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1017,774,1335
+"163","Washington, DC","115","4700 B Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",856,644,1137
+"163","Washington, DC","116","100 Jefferson Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1167,888,1531
+"163","Washington, DC","117","4800 Illinois Avenue Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1396,1097,1775
+"163","Washington, DC","118","100 Emerson Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1050,809,1361
+"163","Washington, DC","119","200 10th Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",569,415,780
+"163","Washington, DC","120","300 Varnum Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1194,932,1529
+"163","Washington, DC","121","0 T Street Southwest, Southwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1114,824,1504
+"163","Washington, DC","122","100 E Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",867,623,1205
+"163","Washington, DC","123","600 Independence Avenue Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",664,482,913
+"163","Washington, DC","124","1400 4th Street Southwest, Southwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1262,965,1650
+"163","Washington, DC","125","1600 D Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",557,416,745
+"163","Washington, DC","126","2300 Hartford Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1326,1014,1733
+"163","Washington, DC","127","1300 E Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",330,204,532
+"163","Washington, DC","128","3500 19th Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1487,1138,1941
+"163","Washington, DC","129","800 51st Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",740,512,1067
+"163","Washington, DC","130","3800 22nd Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",522,332,819
+"163","Washington, DC","131","200 Taylor Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",904,685,1191
+"163","Washington, DC","132","1600 Buchanan Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",693,471,1018
+"163","Washington, DC","133","200 Oneida Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1168,920,1481
+"163","Washington, DC","134","1400 Allison Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1480,1167,1876
+"163","Washington, DC","135","Scale Gate Road Northeast, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",833,630,1099
+"163","Washington, DC","136","700 Taylor Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1218,949,1563
+"163","Washington, DC","137","1700 Willard Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1211,894,1640
+"163","Washington, DC","138","500 8th Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",809,591,1105
+"163","Washington, DC","139","1400 Southeast Boulevard, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",775,551,1088
+"163","Washington, DC","140","400 14th Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",656,492,873
+"163","Washington, DC","141","600 Nicholson Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1063,821,1375
+"163","Washington, DC","142","100 Ingraham Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",994,751,1314
+"163","Washington, DC","143","800 Delafield Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",834,580,1198
+"163","Washington, DC","144","1700 19th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1297,965,1741
+"163","Washington, DC","145","1100 Varney Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1627,1292,2047
+"163","Washington, DC","146","3800 8th Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1468,1155,1864
+"163","Washington, DC","147","3400 17th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1445,1132,1844
+"163","Washington, DC","148","1400 Ogden Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1387,1074,1791
+"163","Washington, DC","149","1400 Irving Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1265,968,1652
+"163","Washington, DC","150","1200 13th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",977,704,1355
+"163","Washington, DC","151","100 3rd Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",598,421,848
+"163","Washington, DC","152","600 Acker Place Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",413,275,618
+"163","Washington, DC","153","900 10th Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",287,167,490
+"163","Washington, DC","154","200 M Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",468,284,769
+"163","Washington, DC","155","100 T Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",547,375,796
+"163","Washington, DC","156","100 13th Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",447,315,633
+"163","Washington, DC","157","300 U Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",424,275,652
+"163","Washington, DC","158","300 Burbank Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",807,603,1078
+"163","Washington, DC","159","1100 45th Place Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1028,789,1339
+"163","Washington, DC","160","500 42nd Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",707,514,970
+"163","Washington, DC","161","4900 Eads Place Northeast, Lincoln Heights, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",875,638,1198
+"163","Washington, DC","162","800 Washburn Arts Center, Florida Avenue Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",153,62,377
+"163","Washington, DC","163","1300 Mount Olivet Road Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",202,69,585
+"163","Washington, DC","164","1700 Lang Place Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",124,60,254
+"163","Washington, DC","165","800 21st Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",219,129,368
+"163","Washington, DC","166","1300 Orren Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",150,67,333
+"163","Washington, DC","167","4100 1st Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1325,1035,1695
+"163","Washington, DC","168","1800 E Street Northeast, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1456,1094,1936
+"163","Washington, DC","169","Meadow Road Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",158,62,397
+"163","Washington, DC","170","900 Brentwood Road Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",269,145,495
+"163","Washington, DC","171","4200 4th Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1441,1131,1834
+"163","Washington, DC","172","700 55th Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",759,523,1100
+"163","Washington, DC","173","4500 45th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",2014,1582,2562
+"163","Washington, DC","174","Massachusetts-39th Trail, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1792,1427,2249
+"163","Washington, DC","175","2100 Lincoln Road Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",698,507,960
+"163","Washington, DC","176","4800 Meade Street Northeast, Deanwood, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",613,411,913
+"163","Washington, DC","177","6000 Clay Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",916,653,1283
+"163","Washington, DC","178","3100 Chancellor's Way Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",645,472,881
+"163","Washington, DC","179","1500 Kearny Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",444,283,696
+"163","Washington, DC","180","5100 39th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1994,1630,2438
+"163","Washington, DC","181","400 Butternut Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1365,1079,1725
+"163","Washington, DC","182","3600 Alton Place Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1867,1394,2499
+"163","Washington, DC","183","3300 6th Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1424,1113,1820
+"163","Washington, DC","184","700 Fern Place Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1583,1263,1983
+"163","Washington, DC","185","700 Quackenbos Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1439,1113,1859
+"163","Washington, DC","186","20001, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",992,733,1341
+"163","Washington, DC","187","1600 13th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1071,829,1382
+"163","Washington, DC","188","4200 Martin Luther King Junior Avenue Southwest, Southwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1186,925,1519
+"163","Washington, DC","189","100 Wilmington Place Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1274,956,1696
+"163","Washington, DC","190","900 M Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",848,599,1199
+"163","Washington, DC","191","1300 Gallatin Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1513,1199,1908
+"163","Washington, DC","192","5400 8th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1370,1083,1731
+"163","Washington, DC","193","3500 13th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1257,959,1646
+"163","Washington, DC","194","700 Lamont Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1054,808,1374
+"163","Washington, DC","195","500 Lamont Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",975,743,1277
+"163","Washington, DC","196","2400 5th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",806,593,1095
+"163","Washington, DC","197","2400 Sherman Avenue Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",937,692,1267
+"163","Washington, DC","198","0 Peluca Alley, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1262,957,1663
+"163","Washington, DC","199","1700 Kalorama Road Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1299,946,1782
+"163","Washington, DC","200","2400 20th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1410,1062,1871
+"163","Washington, DC","201","1800 California Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1322,987,1769
+"163","Washington, DC","202","1300 Talbert Terrace Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1204,902,1605
+"163","Washington, DC","203","1100 Connecticut Avenue Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1286,936,1765
+"163","Washington, DC","204","Rafik B. Hariri Building, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1789,1384,2312
+"163","Washington, DC","205","4000 Highwood Court Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1824,1324,2511
+"163","Washington, DC","206","0 Observatory Circle Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1551,1130,2128
+"163","Washington, DC","208","2800 Cathedral Avenue Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1623,1246,2112
+"163","Washington, DC","209","1200 U Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",997,750,1323
+"163","Washington, DC","210","1400 1st Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",627,415,945
+"163","Washington, DC","211","1200 5th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",700,475,1030
+"163","Washington, DC","212","800 Howard Road Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",984,741,1306
+"163","Washington, DC","213","2000 Savannah Terrace Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1440,1102,1880
+"163","Washington, DC","214","3200 Highland Place Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1707,1047,2782
+"163","Washington, DC","215","3800 Klingle Place Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1687,1308,2175
+"163","Washington, DC","217","1500 Tobias Drive Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1379,1044,1820
+"163","Washington, DC","218","1700 Kenyon Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1408,1096,1808
+"163","Washington, DC","219","Groff Court Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",498,339,730
+"163","Washington, DC","220","1400 Mississippi Avenue Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1559,1196,2030
+"163","Washington, DC","221","1400 18th Place Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",858,629,1168
+"163","Washington, DC","222","900 26th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1506,1160,1954
+"163","Washington, DC","223","400 3rd Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",828,597,1148
+"163","Washington, DC","224","2400 Wagner Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1227,931,1616
+"163","Washington, DC","225","2200 Chester Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1088,822,1440
+"163","Washington, DC","226","2800 Upton Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1677,1343,2093
+"163","Washington, DC","227","2500 Pomeroy Road Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1291,999,1667
+"163","Washington, DC","228","1200 24th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1375,1014,1864
+"163","Washington, DC","229","3900 Clay Place Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",660,482,903
+"163","Washington, DC","230","0 Olmsted Walk, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1477,1137,1918
+"163","Washington, DC","231","4300 Russell Avenue, Mount Rainier","1/1/2020 - 3/31/2020, Every day, Daily Average",759,553,1040
+"163","Washington, DC","232","5100 Rockwood Parkway Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",2056,1605,2632
+"163","Washington, DC","233","600 10th Street Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",292,174,488
+"163","Washington, DC","234","0 Discovery Communications, Discovery Place, Downtown Silver Spring, Silver Spring","1/1/2020 - 3/31/2020, Every day, Daily Average",1756,1407,2191
+"163","Washington, DC","235","600 Anacostia Avenue Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",674,447,1015
+"163","Washington, DC","236","0 Cleveland Avenue, Takoma Park","1/1/2020 - 3/31/2020, Every day, Daily Average",1584,1260,1989
+"163","Washington, DC","237","1400 Montague Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1604,1277,2014
+"163","Washington, DC","238","3100 Erie Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1209,920,1588
+"163","Washington, DC","239","5400 30th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1814,1508,2181
+"163","Washington, DC","240","1500 17th Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1147,830,1584
+"163","Washington, DC","241","3900 Massachusetts Avenue Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1074,811,1421
+"163","Washington, DC","243","1400 Anacostia Avenue Northeast, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",382,223,652
+"163","Washington, DC","244","1300 South Hayes Street, Aurora Highlands, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1407,1047,1890
+"163","Washington, DC","245","3300 M Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1668,1292,2153
+"163","Washington, DC","246","Anacostia Riverwalk Trail, Northeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",509,357,725
+"163","Washington, DC","247","5700 Marlboro Pike, District Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1494,1185,1883
+"163","Washington, DC","248","2300 California Street Northwest, Northwest Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1394,1031,1883
+"163","Washington, DC","249","3400 N Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",950,718,1256
+"163","Washington, DC","250","3000 Oxon Park Street, Temple Hills","1/1/2020 - 3/31/2020, Every day, Daily Average",1398,1067,1830
+"163","Washington, DC","251","2900 Park Drive Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",993,726,1356
+"163","Washington, DC","252","1900 23rd Street Southeast, Southeast Washington, Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1058,790,1415
+"163","Washington, DC","260","1900 Addison Road South, District Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1399,1117,1751
+"163","Washington, DC","262","6900 Ames Street, Morningside","1/1/2020 - 3/31/2020, Every day, Daily Average",1553,1202,2005
+"163","Washington, DC","263","1600 Tucker Road, Fort Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1724,1359,2186
+"163","Washington, DC","264","4200 Wandering Court, Temple Hills","1/1/2020 - 3/31/2020, Every day, Daily Average",1689,1302,2190
+"163","Washington, DC","266","3300 Gumwood Drive, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1416,1118,1793
+"163","Washington, DC","267","3900 Old Silver Hill Road, Suitland, Suitland-Silver Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",1469,1117,1931
+"163","Washington, DC","270","5700 Mansfield Drive, Temple Hills","1/1/2020 - 3/31/2020, Every day, Daily Average",1853,1454,2361
+"163","Washington, DC","272","9500 Elvis Lane, Lanham-Seabrook, Goddard","1/1/2020 - 3/31/2020, Every day, Daily Average",1126,851,1488
+"163","Washington, DC","273","6800 Asset Drive, Landover, 13, Kent, Prince George's County, Maryland, United States, 20785","1/1/2020 - 3/31/2020, Every day, Daily Average",977,740,1289
+"163","Washington, DC","274","2500 Campus Way North, Bowie","1/1/2020 - 3/31/2020, Every day, Daily Average",870,634,1192
+"163","Washington, DC","275","6200 Surrey Square Lane, District Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1694,1379,2080
+"163","Washington, DC","276","6000 Kirby Road, Clinton","1/1/2020 - 3/31/2020, Every day, Daily Average",1709,1011,2886
+"163","Washington, DC","278","4100 31st Street, Mount Rainier","1/1/2020 - 3/31/2020, Every day, Daily Average",622,437,883
+"163","Washington, DC","279","8800 Colonel Seward Drive, Fort Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1527,1264,1843
+"163","Washington, DC","280","5100 Cranmer Way, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1349,1055,1723
+"163","Washington, DC","281","1600 Brightseat Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",888,677,1163
+"163","Washington, DC","282","6200 Springhill Court, Greenbelt","1/1/2020 - 3/31/2020, Every day, Daily Average",1055,776,1433
+"163","Washington, DC","283","5900 Cherrywood Lane, Greenbelt","1/1/2020 - 3/31/2020, Every day, Daily Average",1151,876,1511
+"163","Washington, DC","284","4700 Annapolis Road, Bladensburg","1/1/2020 - 3/31/2020, Every day, Daily Average",693,494,972
+"163","Washington, DC","285","8000 New Hampshire Avenue, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1680,1301,2168
+"163","Washington, DC","288","4500 Harvest Road, Camp Springs","1/1/2020 - 3/31/2020, Every day, Daily Average",1799,1251,2586
+"163","Washington, DC","289","1400 Farmingdale Avenue, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",590,402,864
+"163","Washington, DC","290","6000 Sargent Road, Chillum","1/1/2020 - 3/31/2020, Every day, Daily Average",1050,801,1374
+"163","Washington, DC","291","5800 31st Place, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1196,918,1557
+"163","Washington, DC","292","8400 Carrollton Parkway, New Carrollton","1/1/2020 - 3/31/2020, Every day, Daily Average",634,454,884
+"163","Washington, DC","293","Baltimore-Washington Parkway, 2, Bladensburg, Prince George's County, Maryland, United States, 20781","1/1/2020 - 3/31/2020, Every day, Daily Average",382,239,610
+"163","Washington, DC","294","5600 64th Avenue, Riverdale, East Riverdale","1/1/2020 - 3/31/2020, Every day, Daily Average",797,555,1142
+"163","Washington, DC","295","4000 Carozza Court, Temple Hills","1/1/2020 - 3/31/2020, Every day, Daily Average",1387,1041,1847
+"163","Washington, DC","296","1700 Ritchie Road, District Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1208,886,1645
+"163","Washington, DC","297","8200 Waterside Court, Fort Washington","1/1/2020 - 3/31/2020, Every day, Daily Average",1478,1148,1902
+"163","Washington, DC","298","6400 61st Place, Riverdale, East Riverdale","1/1/2020 - 3/31/2020, Every day, Daily Average",845,593,1203
+"163","Washington, DC","299","2400 Rosecroft Court, Oxon Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",2063,1551,2743
+"163","Washington, DC","300","3800 Matthews Drive, Temple Hills","1/1/2020 - 3/31/2020, Every day, Daily Average",2069,1634,2619
+"163","Washington, DC","301","4900 40th Place, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1007,752,1348
+"163","Washington, DC","302","Unnamed Road, College Park","1/1/2020 - 3/31/2020, Every day, Daily Average",1121,853,1472
+"163","Washington, DC","303","100 Onondaga Drive, Oxon Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",1392,1087,1781
+"163","Washington, DC","304","1800 South Club Drive, Landover, Greater Landover","1/1/2020 - 3/31/2020, Every day, Daily Average",704,498,993
+"163","Washington, DC","305","2800 Crest Avenue, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",430,283,651
+"163","Washington, DC","306","3800 Kearney Road, Brentwood","1/1/2020 - 3/31/2020, Every day, Daily Average",562,373,844
+"163","Washington, DC","307","4600 Greenline Court, Suitland, Camp Springs","1/1/2020 - 3/31/2020, Every day, Daily Average",1721,1335,2217
+"163","Washington, DC","308","3500 Riviera Street, Temple Hills","1/1/2020 - 3/31/2020, Every day, Daily Average",2026,1499,2737
+"163","Washington, DC","309","5800 Emack Avenue, Lanham-Seabrook, Lanham, Prince George's County, Maryland, United States, 20706, 4007","1/1/2020 - 3/31/2020, Every day, Daily Average",1139,858,1510
+"163","Washington, DC","310","3800 Forestville Road, District Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1423,1092,1853
+"163","Washington, DC","311","1100 Valley Drive, College Park","1/1/2020 - 3/31/2020, Every day, Daily Average",1242,967,1593
+"163","Washington, DC","312","4200 Suitland Road, Suitland-Silver Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",1374,1022,1846
+"163","Washington, DC","313","3900 Livingston Street, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1007,753,1346
+"163","Washington, DC","315","2400 Brooks Drive, Suitland, Suitland-Silver Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",1517,1184,1943
+"163","Washington, DC","316","6200 20th Avenue, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1195,907,1572
+"163","Washington, DC","317","700 Somerset Place, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1195,923,1545
+"163","Washington, DC","318","6700 Red Top Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1310,1033,1659
+"163","Washington, DC","319","1900 Laguna Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1625,1280,2061
+"163","Washington, DC","320","2000 Amherst Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1305,1010,1685
+"163","Washington, DC","321","4200 Van Buren Street, University Park","1/1/2020 - 3/31/2020, Every day, Daily Average",1147,886,1484
+"163","Washington, DC","322","4900 Nicholson Street, Riverdale, Riverdale Park","1/1/2020 - 3/31/2020, Every day, Daily Average",974,729,1300
+"163","Washington, DC","325","8500 Pepco Place, Upper Marlboro","1/1/2020 - 3/31/2020, Every day, Daily Average",1264,930,1717
+"163","Washington, DC","326","4900 46th Avenue, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",824,605,1122
+"163","Washington, DC","327","1000 Stratwood Avenue, Oxon Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",1644,1241,2176
+"163","Washington, DC","329","1300 Fenwood Avenue, Oxon Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",1711,1335,2191
+"163","Washington, DC","330","8600 Lancaster Drive, Bethesda","1/1/2020 - 3/31/2020, Every day, Daily Average",1739,1359,2224
+"163","Washington, DC","331","2100 Jameson Street, Temple Hills","1/1/2020 - 3/31/2020, Every day, Daily Average",1840,1362,2484
+"163","Washington, DC","332","Perrie Lane, Camp Springs","1/1/2020 - 3/31/2020, Every day, Daily Average",1741,1337,2265
+"163","Washington, DC","333","2000 Hayden Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",888,663,1188
+"163","Washington, DC","334","5900 Fisher Road, Temple Hills","1/1/2020 - 3/31/2020, Every day, Daily Average",1922,1453,2542
+"163","Washington, DC","335","1500 Southview Drive, Oxon Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",1656,1326,2067
+"163","Washington, DC","336","2700 Keating Street, Hillcrest Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1615,1236,2108
+"163","Washington, DC","337","2500 Eliot Place, Temple Hills","1/1/2020 - 3/31/2020, Every day, Daily Average",1702,1312,2206
+"163","Washington, DC","338","3400 Randall Road, Suitland, Suitland-Silver Hill","1/1/2020 - 3/31/2020, Every day, Daily Average",1604,1275,2017
+"163","Washington, DC","339","2700 Phelps Avenue, District Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1373,1030,1828
+"163","Washington, DC","342","6600 Halleck Street, District Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1551,1222,1968
+"163","Washington, DC","343","3900 Billings Place, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1260,970,1636
+"163","Washington, DC","345","8800 Brierly Road, Chevy Chase","1/1/2020 - 3/31/2020, Every day, Daily Average",1706,1339,2172
+"163","Washington, DC","349","1000 Glacier Avenue, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1157,896,1492
+"163","Washington, DC","350","600 Larchmont Avenue, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1078,828,1402
+"163","Washington, DC","352","5800 Folgate Court, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1228,950,1586
+"163","Washington, DC","353","7500 Wildwood Drive, Takoma Park","1/1/2020 - 3/31/2020, Every day, Daily Average",1563,1257,1942
+"163","Washington, DC","354","200 West Mill Avenue, Pepper Mill Village, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1040,801,1348
+"163","Washington, DC","356","0 Montgomery Avenue, Takoma Park","1/1/2020 - 3/31/2020, Every day, Daily Average",1425,1121,1810
+"163","Washington, DC","357","5900 J Street, Fairmount Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",742,525,1046
+"163","Washington, DC","358","1000 Carrington Avenue, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",885,650,1203
+"163","Washington, DC","359","2400 Pinebrook Avenue, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",635,439,918
+"163","Washington, DC","360","7700 Burnside Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",907,671,1225
+"163","Washington, DC","361","Park Central Road, Riverdale, Greenbelt","1/1/2020 - 3/31/2020, Every day, Daily Average",731,522,1023
+"163","Washington, DC","369","2400 Lyttonsville Place, Silver Spring","1/1/2020 - 3/31/2020, Every day, Daily Average",1597,1171,2177
+"163","Washington, DC","371","600 Cappy Avenue, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",1299,1007,1675
+"163","Washington, DC","372","4200 73rd Avenue, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",593,422,832
+"163","Washington, DC","373","Lanham-Seabrook, Goddard","1/1/2020 - 3/31/2020, Every day, Daily Average",1116,844,1474
+"163","Washington, DC","374","Cobe Road, Goddard","1/1/2020 - 3/31/2020, Every day, Daily Average",851,634,1140
+"163","Washington, DC","377","4700 River Road, Riverdale, Riverdale Park","1/1/2020 - 3/31/2020, Every day, Daily Average",1021,778,1339
+"163","Washington, DC","380","Glenarden Apartment, Glenarden","1/1/2020 - 3/31/2020, Every day, Daily Average",793,601,1044
+"163","Washington, DC","381","3100 Pennsy Drive, Landover, Greater Landover","1/1/2020 - 3/31/2020, Every day, Daily Average",595,416,849
+"163","Washington, DC","382","9500 Lottsford Road, Upper Marlboro","1/1/2020 - 3/31/2020, Every day, Daily Average",968,735,1274
+"163","Washington, DC","383","400 Warfield Drive, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",996,754,1315
+"163","Washington, DC","384","9000 Byard Court, Springdale","1/1/2020 - 3/31/2020, Every day, Daily Average",756,557,1025
+"163","Washington, DC","385","Harrison Lane, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",689,504,941
+"163","Washington, DC","386","6300 Barrs Lane, Lanham-Seabrook, Lanham","1/1/2020 - 3/31/2020, Every day, Daily Average",978,735,1300
+"163","Washington, DC","387","9200 Crandall Road, Lanham-Seabrook, Lanham, Prince George's County, Maryland, United States, 20706, 1931","1/1/2020 - 3/31/2020, Every day, Daily Average",858,629,1169
+"163","Washington, DC","388","7600 Vicar Street, New Carrollton","1/1/2020 - 3/31/2020, Every day, Daily Average",803,590,1091
+"163","Washington, DC","389","7700 Emerson Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",647,460,908
+"163","Washington, DC","390","7500 Finns Lane, Lanham-Seabrook, 2, Bladensburg, Prince George's County, Maryland, United States, 20706, 1217","1/1/2020 - 3/31/2020, Every day, Daily Average",768,561,1050
+"163","Washington, DC","391","4800 Trenton Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",508,355,725
+"163","Washington, DC","392","6800 Furman Parkway, Riverdale, Woodlawn","1/1/2020 - 3/31/2020, Every day, Daily Average",568,406,794
+"163","Washington, DC","393","6000 Addison Road, Capitol Heights","1/1/2020 - 3/31/2020, Every day, Daily Average",917,677,1240
+"163","Washington, DC","394","8600 22nd Avenue, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",1663,1317,2099
+"163","Washington, DC","395","3800 10th Street North, Virginia Square, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1776,1393,2263
+"163","Washington, DC","396","5000 55th Avenue, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",837,620,1129
+"163","Washington, DC","397","4300 58th Avenue, Bladensburg","1/1/2020 - 3/31/2020, Every day, Daily Average",668,453,984
+"163","Washington, DC","399","3000 Hillside Avenue, Cheverly","1/1/2020 - 3/31/2020, Every day, Daily Average",515,346,765
+"163","Washington, DC","400","6700 Darby Road, Hyattsville","1/1/2020 - 3/31/2020, Every day, Daily Average",512,347,754
+"163","Washington, DC","401","1500 28th Street South, Long Branch Creek, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1835,1221,2756
+"163","Washington, DC","402","2600 North Sycamore Street, Williamsburg, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1817,1445,2283
+"163","Washington, DC","403","1800 North Randolph Street, Cherrydale, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1550,1228,1954
+"163","Washington, DC","405","2100 North Kentucky Street, Tara - Leeway Heights, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1699,1352,2133
+"163","Washington, DC","408","1800 North Harvard Street, Lyon Village, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1652,1268,2152
+"163","Washington, DC","410","1800 North Quesada Street, East Falls Church, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1765,1401,2222
+"163","Washington, DC","413","2300 2nd Street South, Penrose, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1322,1024,1705
+"163","Washington, DC","422","Westbranch Drive, Tysons","1/1/2020 - 3/31/2020, Every day, Daily Average",2225,1761,2810
+"163","Washington, DC","423","500 Triadelphia Way, Alexandria West, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1574,1201,2061
+"163","Washington, DC","425","2300 Senseney Lane, Falls Church","1/1/2020 - 3/31/2020, Every day, Daily Average",1959,1571,2441
+"163","Washington, DC","428","5500 16th Street North, Tara - Leeway Heights, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1676,1324,2120
+"163","Washington, DC","430","600 North Harrison Street, Bluemont, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1585,1251,2007
+"163","Washington, DC","431","1800 North Ode Street, North Rosslyn, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1604,1210,2125
+"163","Washington, DC","432","4200 2nd Road North, Buckingham, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1565,1222,2003
+"163","Washington, DC","437","1600 North Queen Street, Radnor - Fort Myer Heights, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1422,1036,1950
+"163","Washington, DC","441","2200 12th Court North, Court House, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1474,1073,2023
+"163","Washington, DC","443","2800 11th Street North, Court House, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1557,1219,1988
+"163","Washington, DC","444","1500 South Eads Street, Crystal City, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1279,970,1685
+"163","Washington, DC","445","4300 29th Street South, Shirlington, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1413,1061,1881
+"163","Washington, DC","447","5400 Charlottesville Road, Springfield","1/1/2020 - 3/31/2020, Every day, Daily Average",1774,1377,2284
+"163","Washington, DC","462","Dolley Madison Boulevard, Tysons","1/1/2020 - 3/31/2020, Every day, Daily Average",2103,1679,2632
+"163","Washington, DC","470","300 North Kenmore Street, Ashton Heights, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1541,1195,1985
+"163","Washington, DC","472","0 8th Street South, Arlington Heights, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1238,926,1654
+"163","Washington, DC","479","2200 Shirlington Road, Nauck, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1324,988,1773
+"163","Washington, DC","480","1400 South Barton Street, Columbia Heights, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1477,1126,1936
+"163","Washington, DC","481","2800 South Buchanan Street, Shirlington, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1425,1080,1879
+"163","Washington, DC","483","2100 Haycock Road, Falls Church","1/1/2020 - 3/31/2020, Every day, Daily Average",1848,1473,2317
+"163","Washington, DC","484","3900 Mount Vernon Avenue, Potomac West, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1905,1392,2606
+"163","Washington, DC","494","5800 Aspen Wood Court, McLean","1/1/2020 - 3/31/2020, Every day, Daily Average",1798,1433,2255
+"163","Washington, DC","500","2000 Eisenhower Avenue, Eisenhower East, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1715,1303,2255
+"163","Washington, DC","502","800 South Payne Street, Southwest Quadrant, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1603,1240,2072
+"163","Washington, DC","512","4600 19th Road North, Waverly Hills, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1632,1291,2061
+"163","Washington, DC","515","1400 North Taft Street, Radnor - Fort Myer Heights, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1410,1039,1912
+"163","Washington, DC","516","2700 South Ives Street, Arlington Ridge, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1623,1171,2248
+"163","Washington, DC","517","5000 Domain Place, Alexandria West, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1469,1121,1924
+"163","Washington, DC","518","4200 Vacation Lane, Donaldson Run, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1510,1192,1912
+"163","Washington, DC","526","4100 Wilson Boulevard, Virginia Square, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1774,1415,2223
+"163","Washington, DC","528","5400 Summer Leaf Lane, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1643,1275,2115
+"163","Washington, DC","531","Morven Lane, Alexandria West, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1438,1076,1920
+"163","Washington, DC","534","2100 Greenwich Street, Falls Church","1/1/2020 - 3/31/2020, Every day, Daily Average",1895,1519,2363
+"163","Washington, DC","536","6000 Backlick Road, Springfield","1/1/2020 - 3/31/2020, Every day, Daily Average",1936,1350,2775
+"163","Washington, DC","537","1000 Colonial Farm Road, McLean","1/1/2020 - 3/31/2020, Every day, Daily Average",2064,1647,2585
+"163","Washington, DC","539","8600 Westwood Center Drive, Vienna","1/1/2020 - 3/31/2020, Every day, Daily Average",2356,1889,2937
+"163","Washington, DC","541","2500 Washington Boulevard, Lyon Park, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1433,1112,1846
+"163","Washington, DC","543","3000 Eisenhower Avenue, Eisenhower West, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1813,1296,2536
+"163","Washington, DC","545","1900 Storm Drive, Falls Church","1/1/2020 - 3/31/2020, Every day, Daily Average",2003,1596,2512
+"163","Washington, DC","546","Moore Lane, Fort Myer, Arlington","1/1/2020 - 3/31/2020, Every day, Daily Average",1287,1000,1654
+"163","Washington, DC","547","600 North Owen Street, Seminary Hill, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1543,1202,1979
+"163","Washington, DC","548","1600 Preston Road, North Ridge, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1377,1032,1836
+"163","Washington, DC","551","4700 Kenmore Avenue, Seminary Hill, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1493,1128,1974
+"163","Washington, DC","553","4900 Seminary Road, Alexandria West, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1471,1126,1921
+"163","Washington, DC","554","1300 North Beauregard Street, Alexandria West, Alexandria","1/1/2020 - 3/31/2020, Every day, Daily Average",1498,1154,1944
+"163","Washington, DC","556","7800 Montvale Way, McLean","1/1/2020 - 3/31/2020, Every day, Daily Average",2208,1777,2742
